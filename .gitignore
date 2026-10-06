@@ -128,3 +128,12 @@ node_modules/
 # Ignore IDEA files
 .idea/
 local.properties
+
+# Local APK inputs/deliverables (not source).
+*.apkm
+*.apk.part-*
+/tests/runtime/.gradle/
+
+# Python check caches.
+__pycache__/
+*.pyc
