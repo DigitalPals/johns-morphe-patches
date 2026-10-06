@@ -1,12 +1,11 @@
-group = "app.template"
+group = "nl.nlziet.pip"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "John's Morphe Patches"
+        description = "Native Android PiP for inspected NLZIET 5.15.3"
+        source = "https://github.com/DigitalPals/johns-morphe-patches"
+        author = "John"
         contact = "na"
         website = "na"
         license = "GPLv3"
