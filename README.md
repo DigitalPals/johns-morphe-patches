@@ -24,8 +24,21 @@ your own original supported APKM and sign in with your own subscription.
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0-dev.1](https://github.com/DigitalPals/johns-morphe-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 NLZIET&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-The patch list is generated automatically by the release workflow.
+**🎯 Supported versions:**
+
+| 🧪&nbsp;5.15.3 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [NLZIET native picture-in-picture](#nlziet-native-picture-in-picture) | Enable Android PiP on Home/Recents during active local playback. Experimental until device playback is verified. |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
